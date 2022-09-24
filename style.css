@@ -1,0 +1,66 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+a:link { 
+    color: black;
+    text-decoration: black;
+}
+a:visited {
+    color: black;
+    text-decoration: black;
+}
+a:hover {
+    color: black;
+    text-decoration: black;
+}
+a:active {
+    color: black;
+    text-decoration: black;
+}
+/* Seccion Comprar */
+#comprar {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url('./Imagenes/ba1.jpg');
+    background-size:cover;
+    background-position: center;
+}
+
+.foto-comprar {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 600px;
+    margin-right: 10%;
+    text-align: right;
+    color: #fff;
+}
+h3 {
+    color: #fff;
+}
+p {
+    color: #fff;
+}
+.fondo-playa {
+    background-image: url('./Imagenes/honolulu.jpg');
+    background-size: cover;
+    background-position: center;
+    margin-top: 20px;
+    
+}
+.fondo-gris {
+    background-color: black;
+    margin-top: 20px;
+}
+.Octubre {
+    margin-bottom: 300px;
+}
+.formulario {
+    padding: 0 20%;
+}
+.recuerda {
+    font-size: 0.75rem;
+    text-align: left;
+}
+.conoce {
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+}
